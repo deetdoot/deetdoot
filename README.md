@@ -16,6 +16,17 @@
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Message_Queueing-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/RedisCache-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/In--Memory_Cache-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modelling-4B8BBE?style=flat" />
+  <img src="https://img.shields.io/badge/Schema--Design-4B8BBE?style=flat" />
+  <img src="https://img.shields.io/badge/Database_Design-0064a5?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DB_Implementation-0064a5?style=flat" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-00bfae?style=flat" />
+  <img src="https://img.shields.io/badge/Microservices-00bfae?style=flat" />
+  
 </p>
 
 ---
