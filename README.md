@@ -47,6 +47,15 @@
 
 ---
 
+### 🎯 Interests
+
+- 🖼️ Computer Vision ([Roboflow](https://roboflow.com/), [OpenCV](https://opencv.org/))
+- 🧠 NLP-backed Information Parsing
+
+---
+
+---
+
 <p align="center">
   <em>Let’s connect and build something amazing!</em>
 </p>
